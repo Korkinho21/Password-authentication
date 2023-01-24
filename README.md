@@ -1,5 +1,5 @@
 # Password-authentication
-By importing getpass module you can protect your password for beeing compromised while typing it.
+By importing getpass module you can protect your password from beeing compromised while typing it.
 
 Set a database with your own usernames and passwords, mines are only a few trial examples.
 
